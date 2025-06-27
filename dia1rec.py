@@ -67,10 +67,46 @@ print(soma)
 
 # **Descreva em passos como escovar os dentes.**
 
+1 Va ao banheiro 
+
+2. Pegue a escova de dentes 
+
+3. Pegue a apsta de dente
+
+4. Abra a pasta de dente
+
+5 Aperte de vagar e coloque o creme na escova do lado das cerdas 
+
+6. leve a escova ate a boca
+
+7. Com movimentos circulares e leves passe em todos os dentes
+
+8. Guspa e encague a boca com agua
+
 # ### Exercício 2:
 
 # **Crie um algoritmo para preparar um miojo.**
 
+comida = "Miojo"
+agua = "quente" #ou fria
+tempo = 3
+tempero = "sachê"
+
+if agua == "quente":
+    print(f"Coloque o {comida} na panela ")
+elif agua == "fria":
+    print("Espero mais 3 minutos para a agua quente")
+
+if tempo == 3:
+    print(f"Aguarde {tempo} minutos para cozinhar o {comida}")
+
+if comida == "Miojo":
+    print(f"pegue o {comida} que nao precisa escorrer")
+    
+if tempero == "sachê":
+    print(f"abra o {tempero} e coloque na panela")
+
+print(f"Sirva o {comida} e bom apetite")
 # ### Exercício 3:
 
 # **Liste os passos para sair de casa em um dia de chuva.**
