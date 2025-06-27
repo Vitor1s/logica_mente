@@ -67,21 +67,21 @@ print(soma)
 
 # **Descreva em passos como escovar os dentes.**
 
-1 Va ao banheiro 
+# 1 Va ao banheiro 
 
-2. Pegue a escova de dentes 
+# 2. Pegue a escova de dentes 
 
-3. Pegue a apsta de dente
+# 3. Pegue a apsta de dente
 
-4. Abra a pasta de dente
+# 4. Abra a pasta de dente
 
-5 Aperte de vagar e coloque o creme na escova do lado das cerdas 
+# 5 Aperte de vagar e coloque o creme na escova do lado das cerdas 
 
-6. leve a escova ate a boca
+# 6. leve a escova ate a boca
 
-7. Com movimentos circulares e leves passe em todos os dentes
+# 7. Com movimentos circulares e leves passe em todos os dentes
 
-8. Guspa e encague a boca com agua
+# 8. Guspa e encague a boca com agua
 
 # ### Exercício 2:
 
@@ -102,7 +102,7 @@ if tempo == 3:
 
 if comida == "Miojo":
     print(f"pegue o {comida} que nao precisa escorrer")
-    
+
 if tempero == "sachê":
     print(f"abra o {tempero} e coloque na panela")
 
